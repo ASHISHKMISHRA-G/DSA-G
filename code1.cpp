@@ -29,5 +29,6 @@ int main()
 
 	cout << "The minimum array element is " << min << endl;
 	cout << "The maximum array element is " << max << endl;
+	
 	return 0;
 }
